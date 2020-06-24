@@ -21,6 +21,10 @@ oss2020 프로젝트를 위해 모인 팀원들 입니다.
 > readme를 읽어주세요, 실행법이 있습니다.
 > Download link:<https://github.com/Zigje9/OSS2020>
 
+### 코딩컨벤션(coding conventions)
+
+> coding convention에 대한 내용을 작성하는 파일을 만들었습니다.
+> 링크
 ### 프로젝트 소개
 > 저희 프로젝트는 카카오맵 api를 이용한 지도 일기 형식의 프로그램입니다.
 
