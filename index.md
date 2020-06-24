@@ -2,7 +2,8 @@
 
 ![](https://ifh.cc/g/5ZgIzu.png)
 
-### 팀 소개
+## 팀 소개
+
 ### 1. 김기태
    >Github link :<https://github.com/1004gite> 
 ### 2. 박제구
