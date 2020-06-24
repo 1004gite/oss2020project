@@ -44,10 +44,11 @@ oss2020 프로젝트를 위해 모인 팀원들 입니다.
 #### 협업
   > github 공용 repository
 >>commit기록\
->([github1](https://i.imgur.com/CQb1TVw.png),
->[github2](https://i.imgur.com/oz2Kor5.png),
->[github3](https://i.imgur.com/U36A2cb.png),
->[github4](https://i.imgur.com/IrHoBGF.png))
+>
+![](https://ifh.cc/g/NfxzCx.jpg)
+![](https://ifh.cc/g/HA0Lax.jpg)
+![](https://ifh.cc/g/fTck3i.jpg)
+![](https://ifh.cc/g/skU3MO.jpg)
 
 
 ## Thank you for visit
