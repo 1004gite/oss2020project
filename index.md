@@ -28,27 +28,34 @@ oss2020 프로젝트를 위해 모인 팀원들 입니다.
 
 > 연인, 친구들의 추억 기록을 목적으로 만들어 졌습니다.
 
+> 오픈소스 이용
+![](https://ifh.cc/g/AqFfty.png)
+
+>실행 스크린샷
+![](https://ifh.cc/g/Vl2J1m.jpg)
+
 > 감사합니다.
 
 
-### github 오픈소스 이용
-![](https://ifh.cc/g/AqFfty.png)
+### 사용법
+>1.기록하고자 하는 장소를 클릭합니다.
 
-### 실행 스크린샷
-![](https://ifh.cc/g/Vl2J1m.jpg)
+>2.메모를 기록합니다.
+
+>3.submit을 클릭합니다.
 
 
-## 협업 소개
+### 프로젝트 참여 방법
 
-### 소통
-> slack
+#### 회의
+> [slack](https://app.slack.com/client/T010MJD2QJZ/G0111F29WHZ)
 
-> 오프라인 회의
+> 오프라인 회의 (200604, 200613, 200622, 200624)
 
 >[Trello](https://trello.com/b/0vyzMTpX/oss-project) (click for more information)
 ![](https://ifh.cc/g/6mksrZ.jpg)
   
-### 협업
+#### 협업
   > github 공용 repository
 >>commit기록\
 >
@@ -58,7 +65,4 @@ oss2020 프로젝트를 위해 모인 팀원들 입니다.
 ![](https://ifh.cc/g/skU3MO.jpg)
 
 
-
-
-
-### Thank you for visit
+## Thank you for visit
