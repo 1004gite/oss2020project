@@ -1,6 +1,6 @@
 ## Welcome to 2020OSSproject
 
-
+![](https://ifh.cc/g/5ZgIzu.png)
 
 ### 팀 소개
 
@@ -32,8 +32,10 @@ oss2020 프로젝트를 위해 모인 팀원들 입니다.
 ### 협업 소개
 
 #### 소통
-> slack\
->오프라인 회의\
+> slack
+
+>오프라인 회의
+
 >[Trello](https://trello.com/b/0vyzMTpX/oss-project)
   
 #### 협업
