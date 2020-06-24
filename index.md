@@ -1,6 +1,6 @@
 ## Welcome to 2020OSSproject
 
-
+![](https://1004gite.github.io/oss2020project/)
 
 ### 팀 소개
 ### 1. 김기태
