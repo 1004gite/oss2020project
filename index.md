@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to 2020OSSproject
 
-You can use the [editor on GitHub](https://github.com/1004gite/oss2020project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 팀 소개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. 김기태
+   >Github link :<https://github.com/1004gite> 
+### 2. 박제구
+  >Github link : <https://github.com/Zigje9>   
+### 3. 윤찬웅
+  >Github link :<https://github.com/qicqock>
+### 4. 정충호(2017012506)
+  >Github link : <https://github.com/cndgh98>
+### 5. 조재준
+  >Github link : <https://github.com/raejoonee>
 
-```markdown
-Syntax highlighted code block
+oss2020 프로젝트를 위해 모인 팀원들 입니다.
 
-# Header 1
-## Header 2
-### Header 3
+### 프로젝트 소개
+> 저희 프로젝트는 카카오맵 api를 이용한 지도 일기 형식의 프로그램입니다.
+> 글 뿐만 아니라 지도에 도 기록을 남길 수있습니다.
+> 연인, 친구들의 추억 기록을 목적으로 만들어 졌습니다.
+> 감사합니다.
 
-- Bulleted
-- List
+### 사용법
+>1.기록하고자 하는 장소를 클릭합니다.
+>2.메모를 기록합니다.
+>3.submmit을 클릭합니다.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 협업 소개
 
-[Link](url) and ![Image](src)
-```
+#### 소통
+> slack\
+>오프라인 회의\
+>[Trello](https://trello.com/b/0vyzMTpX/oss-project)
+  
+#### 협업
+  > github 공용 repository
+>>commit기록\
+>([github1](https://i.imgur.com/CQb1TVw.png),
+>[github2](https://i.imgur.com/oz2Kor5.png),
+>[github3](https://i.imgur.com/U36A2cb.png),
+>[github4](https://i.imgur.com/IrHoBGF.png))
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1004gite/oss2020project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thank you for visit
